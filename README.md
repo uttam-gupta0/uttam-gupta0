@@ -81,16 +81,6 @@ Python application using BeautifulSoup and Requests to extract headlines from we
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttam-gupta0&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-gupta0&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=uttam-gupta0&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: guptauttam499@gmail.com
