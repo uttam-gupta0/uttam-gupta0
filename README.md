@@ -57,9 +57,6 @@ Software Developer | Java Developer | SQL Developer | AI & IoT Enthusiast
 ### 🔥 HeatEye AQ
 Drone-based Air Quality Monitoring System using ESP32, MQ135 Sensor, DHT11, and Thermal Camera.
 
-### 🛒 Smart Grocery Planner
-Flask-based web application for product comparison and grocery planning.
-
 ### 📄 Smart Resume Builder
 Resume generation platform built using Streamlit and Python.
 
